@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <a href="https://linkedin.com/in/bdrsmsdn" target="_blank">
    <img align="center" alt="Badra S | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
   
-  <a href="https://twitter.com/bdrsmsdn" target="_blank">
+  <a href="https://twitter.com/bedeereseren" target="_blank">
     <img align="center" alt="Badra S | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - ⚡️ I’m currently working on my personal project
 - 🌱 I’m currently learning React
 - ✨ Interested in backend-ish & mobile things
-- 🤔 Looking for a girl who loves coding;
+- 📫 How to reach me: badrasam7@gmail.com
 <!-- - ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love international travel. -->
