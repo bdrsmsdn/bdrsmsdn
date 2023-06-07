@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 <br>
 
 ![Badra's github stats](https://github-readme-stats.vercel.app/api?username=bdrsmsdn&count_private=true&show_icons=true&theme=default)
-
+<!--  <br>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdrsmsdn&title_color=3181ed&icon_color=63a2ff&text_color=151515&bg_color=ffffff&hide=css%2Chtml&layout=compact" /> -->
 
 
