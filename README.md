@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <div align="center">
  <a href="https://linkedin.com/in/bdrsmsdn" target="_blank">
    <img align="center" alt="Badra S | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-  
+  <!--
   <a href="https://twitter.com/bedeereseren" target="_blank">
     <img align="center" alt="Badra S | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
+  </a> -->
 
 <!--   <a href="https://dev.to/johnkirtley_" target="_blank">
     <img align="center" alt="John Dev Profile" width="41px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
@@ -37,19 +37,19 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<h3>💻 Informatics Enjoyer | 🌏 Bandung, ID </h3>
+<h3>💻 Software Engineer | 🌏 Bandung, ID </h3>
 </div>
 
 ### About Me
 
-- 📊 Ngoding kalo galau
+- 📊 Learning by doing is a must
 - ⚡️ I’m currently working on my personal project
 - 🌱 I’m currently learning React
-- ✨ Interested in backend-ish & mobile things
+- ✨ Interested in Web & Mobile things
 - 📫 How to reach me: badrasam7@gmail.com
 <!-- - ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
-- 👨‍💻 Enjoy collaborating on `open source` projects.
-- ✈️ Fun Fact: Love international travel. -->
+- 👨‍💻 Enjoy collaborating on `open source` projects.-->
+- 😾 Fun Fact: I love cat.
 
 
 ### Frequently Used Languages and Tools 
