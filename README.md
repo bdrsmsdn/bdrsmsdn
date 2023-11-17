@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<h3>💻 Software Engineer | 🌏 Bandung, ID </h3>
+<h3>💻 Software Engineer | 🌏 Jakarta Capital Region </h3>
 </div>
 
 ### About Me
 
 - 📊 Learning by doing is a must
-- ⚡️ I’m currently working on my personal project
-- 🌱 I’m currently learning React
+- ⚡️ I’m currently working on my company & personal project
+- 🌱 I’m currently learning C# ASP.NET Core
 - ✨ Interested in Web & Mobile things
 - 📫 How to reach me: badrasam7@gmail.com
 <!-- - ⚡️ Currently developing impactful solutions at <a href="https://speedboostr.com?ref=johnkirtley" target="_blank">Speed Boostr</a>.
